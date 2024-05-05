@@ -12,10 +12,10 @@ Furthermore, the processes used illustrates my fluency of various python librari
 ## Content
 
 ### 1. Datasets
-- [ATP Tennis Championship Dataset](https://data.world/tylerudite/atp-match-data?authuser=3 ): Description of the dataset and its source.
+- [ATP Tennis Championship Dataset](https://data.world/tylerudite/atp-match-data?authuser=3 ): Results for the men's ATP tour date back to January 2007, including Grand Slams, Masters Series, Masters Cup and International Series competitions.
 
 ### 2. Notebooks
-  - [Narrative Name 1](link/to/narrative1.ipynb): Summary of the narrative's theme and insights.
+  - [Data Narrative 1 - ATP Tennis](ATP%20Tennis/Data%20Narrative%20-%20ATP%20Tennis.ipynb)
 
 ## Usage
 
@@ -24,7 +24,7 @@ To explore the datasets and narratives in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/data-narratives.git
+   git clone https://github.com/Aryan-IIT/Data-Narratives-and-Explorations/.
    ```
 
 2. Navigate to the cloned directory:
