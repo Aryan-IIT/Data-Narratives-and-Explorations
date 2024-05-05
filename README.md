@@ -24,13 +24,13 @@ To explore the datasets and narratives in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/Aryan-IIT/Data-Narratives-and-Explorations/.
+   git clone https://github.com/Aryan-IIT/Data-Narratives-and-Explorations.git
    ```
 
 2. Navigate to the cloned directory:
 
    ```
-   cd data-narratives
+   cd Data-Narratives-and-Explorations
    ```
 
 3. Explore the datasets and the notebooks.
